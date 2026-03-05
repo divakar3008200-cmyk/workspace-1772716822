@@ -1,0 +1,18 @@
+[
+  { "name": "Test_Vehicle_Class_Should_Exist", "weightage": 0.05 },
+  { "name": "Test_Trip_Class_Should_Exist", "weightage": 0.05 },
+  { "name": "Test_Vehicle_Properties_Should_Exist", "weightage": 0.05 },
+  { "name": "Test_Trip_Properties_Should_Exist", "weightage": 0.05 },
+  { "name": "Test_Program_Methods_Exist", "weightage": 0.05 },
+  { "name": "Test_CreateVehicle_Inserts_Record", "weightage": 0.08 },
+  { "name": "Test_CreateTrip_With_Nonexistent_Vehicle_Aborts", "weightage": 0.07 },
+  { "name": "Test_CreateTrip_After_Vehicle_Creation", "weightage": 0.08 },
+  { "name": "Test_UpdateVehicle_Changes_Data", "weightage": 0.07 },
+  { "name": "Test_DeleteVehicle_Removes_Associated_Trips", "weightage": 0.08 },
+  { "name": "Test_UpdateTrip_Changes_Data", "weightage": 0.07 },
+  { "name": "Test_DeleteTrip_Removes_Trip", "weightage": 0.07 },
+  { "name": "Test_AssignTripToVehicle_Updates_Trip", "weightage": 0.07 },
+  { "name": "Test_CreateVehicle_MinCapacity", "weightage": 0.04 },
+  { "name": "Test_Invalid_Number_Input_Prompts_Again", "weightage": 0.04 },
+  { "name": "Test_Models_Folder_Contains_Classes", "weightage": 0.03 }
+]
